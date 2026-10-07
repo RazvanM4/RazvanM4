@@ -1,4 +1,4 @@
-# Razvan M
+# Razvan Mareș
 
 **.NET / Azure solutions architect · infrastructure, CI/CD, AI/ML** — Bucharest, Romania
 
