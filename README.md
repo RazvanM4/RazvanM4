@@ -8,7 +8,7 @@ I design and run production systems end to end: .NET backends, Azure and self-ho
 Delete the last sentence if you don't want availability stated publicly.
 Your site spells the name Răzvan Mareș and GitHub now says Razvan Mares; pick one spelling and use it everywhere.
 -->
-
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/RazvanM4.svg)](https://ghcommits.com/u/RazvanM4)
 ## Selected work
 
 Most of this is client work in private repositories, so this is the short version. Case studies: [razvanmares.ro/projects](https://razvanmares.ro/projects).
