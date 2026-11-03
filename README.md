@@ -8,8 +8,8 @@ I design and run production systems end to end: .NET backends, Azure and self-ho
 Delete the last sentence if you don't want availability stated publicly.
 Your site spells the name Răzvan Mareș and GitHub now says Razvan Mares; pick one spelling and use it everywhere.
 -->
-[![committers.top badge](https://user-badge.committers.top/romania/USERNAME.svg)](https://user-badge.committers.top/romania/RazvanM4)
-[![committers.top badge](https://org-badge.committers.top/romania/ORGNAME.svg)](https://org-badge.committers.top/romania/RazvanApps)
+[![committers.top badge](https://user-badge.committers.top/romania/RazvanM4.svg)](https://user-badge.committers.top/romania/RazvanM4)
+[![committers.top badge](https://user-badge.committers.top/romania_private/RazvanM4.svg)](https://user-badge.committers.top/romania_private/RazvanM4)
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/RazvanM4.svg)](https://ghcommits.com/u/RazvanM4)
 ## Selected work
 
