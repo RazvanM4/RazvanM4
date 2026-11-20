@@ -28,6 +28,10 @@ Most of this is client work in private repositories, so this is the short versio
 
 Personal projects and infrastructure live under [@RazvanApps](https://github.com/RazvanApps). Public repositories on this account:
 
+- [dotnet-mcp-server-blueprint](https://github.com/RazvanM4/dotnet-mcp-server-blueprint) — .NET 10 Model Context Protocol (MCP) server blueprint with stdio/Streamable HTTP transports, trust-boundary tools, NuGet package & Official MCP Registry support (C#)
+- [k3s-proxmox-terraform-ansible](https://github.com/RazvanM4/k3s-proxmox-terraform-ansible) — HA k3s cluster blueprint on Proxmox VE with Terraform, Ansible collection (azvanm4.k3s_proxmox) & Argo CD GitOps bootstrap (HCL, YAML)
+- [terraform-proxmox-k3s](https://github.com/RazvanM4/terraform-proxmox-k3s) — Standalone Terraform Registry module for provisioning HA k3s clusters on Proxmox VE via pg/proxmox (HCL)
+- [dotnet-hybrid-rag-rbac-starter](https://github.com/RazvanM4/dotnet-hybrid-rag-rbac-starter) — .NET Hybrid RAG + RBAC starter architecture with document-level access control and grounded citations (C#)
 - [WhisperClient](https://github.com/RazvanM4/WhisperClient) — cross-platform push-to-talk speech-to-text client for self-hosted Whisper servers (Python)
 - [NutritionalAI](https://github.com/RazvanM4/NutritionalAI) — ML metabolic-risk prediction + RAG nutritional recommendations (Python, archived)
 - [PhysicalActivityBot](https://github.com/RazvanM4/PhysicalActivityBot) — Django conversational bot for functional-movement education with PDF reports (Python, archived)
