@@ -13,7 +13,7 @@ Your site spells the name Răzvan Mareș and GitHub now says Razvan Mares; pick 
 [![GitHub Commits Badge](https://ghcommits.com/api/badge/RazvanM4.svg)](https://ghcommits.com/u/RazvanM4)
 ## Selected work
 
-Most of this is client work in private repositories, so this is the short version. Case studies: [razvanmares.ro/projects](https://razvanmares.ro/projects).
+Most of this is client work in private repositories, so this is the short version. Case studies: [razvanmares.com/projects](https://razvanmares.com/projects).
 
 | Project | Outcome | Stack |
 |---|---|---|
@@ -66,6 +66,6 @@ Currently finishing an MSc in Data Science & AI.
 
 ## Contact
 
-- Website & blog: [razvanmares.ro](https://razvanmares.ro)
+- Website & blog: [razvanmares.com](https://razvanmares.com) · [razvanmares.ro](https://razvanmares.ro) (RO)
 - LinkedIn: [linkedin.com/in/razvan-mares1](https://www.linkedin.com/in/razvan-mares1/)
 - Email:  razvan@razvanmares.ro
